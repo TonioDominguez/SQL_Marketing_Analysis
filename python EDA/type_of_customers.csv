@@ -1,0 +1,29 @@
+most_frequent_client,n_of_clients,average_age,average_income,children_at_home,max_children_at_home,favourite_product,2nd_favourite_product,3rd_favourite_product,favourite_way_to_purchase
+"Graduation Married",429,54,50800.3,0.96,3,Wine,Meat,Gold,Store
+"Graduation Together",285,56,55758.5,0.99,3,Wine,Meat,Gold,Store
+"Graduation Single",246,52,51322.2,0.81,3,Wine,Meat,Gold,Store
+"PhD Married",190,57,58138,0.99,3,Wine,Meat,Gold,Store
+"Master Married",138,57,53286,1.07,3,Wine,Meat,Gold,Store
+"Graduation Divorced",119,57,54526,0.98,3,Wine,Meat,Gold,Store
+"PhD Together",116,59,56041.4,1.03,3,Wine,Meat,Gold,Store
+"Master Together",102,59,52109,0.98,3,Wine,Meat,Gold,Store
+"PhD Single",96,56,53314.6,0.93,3,Wine,Meat,Gold,Store
+"2n Cycle Married",80,51,46201.1,0.88,3,Wine,Meat,Gold,Store
+"Master Single",75,53,53530.6,0.89,3,Wine,Meat,Gold,Store
+"2n Cycle Together",56,51,44736.4,0.93,2,Wine,Meat,Fish,Store
+"PhD Divorced",52,60,53096.6,1.13,3,Wine,Meat,Gold,Store
+"Master Divorced",37,57,50331.9,0.97,2,Wine,Meat,Gold,Store
+"2n Cycle Single",36,50,53673.9,0.86,3,Wine,Meat,Gold,Store
+"Graduation Widow",35,62,54976.7,0.91,2,Wine,Meat,Gold,Store
+"PhD Widow",24,69,60288.1,0.88,2,Wine,Meat,Gold,Store
+"2n Cycle Divorced",23,60,49395.1,0.87,2,Wine,Meat,Gold,Store
+"Basic Married",20,46,21960.5,0.55,1,Fish,Fish,Fish,Store
+"Basic Single",18,41,18238.7,1.00,2,Gold,Gold,Gold,Store
+"Basic Together",14,53,21240.1,0.64,1,Gold,Gold,Gold,Store
+"Master Widow",11,70,58401.5,0.91,2,Wine,Meat,Gold,Store
+"2n Cycle Widow",5,65,51392.2,0.80,2,Wine,Meat,Fish,Store
+"Graduation Alone",1,36,34176,1.00,1,Meat,Meat,Gold,Store
+"Master Alone",1,66,61331,2.00,2,Wine,Meat,Gold,Web
+"Basic Widow",1,64,22123,0.00,0,Fish,Fish,Fish,Store
+"Basic Divorced",1,48,9548,1.00,1,Fish,Fish,Fish,Store
+"PhD Alone",1,51,35860,2.00,2,Gold,Gold,Gold,Store

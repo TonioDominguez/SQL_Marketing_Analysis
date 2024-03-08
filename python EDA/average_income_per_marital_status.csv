@@ -1,0 +1,7 @@
+marital_status,n_of_clients,average_age,average_income,average_kids_at_home,teens_at_home
+Married,857,54,51725,0.45,0.51
+Together,573,56,53245.5,0.45,0.53
+Single,471,52,50995.4,0.46,0.40
+Divorced,232,58,52834.2,0.41,0.59
+Widow,76,65,56481.6,0.24,0.64
+Alone,3,51,43789,1.00,0.67
